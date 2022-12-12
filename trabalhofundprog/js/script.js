@@ -165,7 +165,7 @@ mainAudio.addEventListener("ended", ()=>{
   }
 });
 
-//show music list onclick of music icon
+// mostra a lista de músicas ao clicar no ícone da música
 moreMusicBtn.addEventListener("click", ()=>{
   musicList.classList.toggle("show");
 });
