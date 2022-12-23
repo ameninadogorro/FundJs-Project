@@ -8,23 +8,6 @@
 
 
 
-![Badge](https://img.shields.io/badge/code-WELCOME-F25764?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/status-COMPLETE-A52F64?style=for-the-badge&logo=) ![Badge](https://img.shields.io/badge/language-PTBR-FF5F99?style=for-the-badge&logo=)
-
-  <h2 align="center">
- .{tabela de conteúdos 📌
-                  </h2>
-                
-<p align="center">
- <a href="#about">~about</a> •  
- <a href="#question6">~question 6</a> • 
- <a href="#aplication">~aplication</a> • 
- <a href="#developers">~developers</a>
-</p> 
-
-
-<h2 align="center" id="about">
- .{about 🎧
-</h2>
 
   
 - O programa "Flyin' Web Music Player" se trata, como descrito, de uma playlist com músicas pré-selecionadas, onde é possível ouvir suas músicas favoritas através de uma interface dinâmica e prática. 
@@ -32,24 +15,6 @@
 - O código foi modificado com o objetivo de aprendizado para o projeto final na disciplina de "Fundamentos da Programação", onde utilizamos os seguintes códigos como base:
   
 - https://www.youtube.com/watch?v=1-CvPn4AbT4&t=349s
-
-  <p align="center">
-<b> 🥤 As músicas presentes no código foram: </b> 
--   Boys Don't Cry - The Cure
--   Little Dark Age - MGMT
--   Psycho Killer (2005 Remaster) - Talking Heads
--   Rhinestone Eyes - Gorillaz
--   Running Up That Hill (A Deal With God) (2018 Remaster) - Kate Bush
--   The Final Countdown - Europe
--   One Kiss - Calvin Harris, Dua Lipa
--   Hayloft II - Mother Mother
--   505 - Artic Monkeys
--   O Descobridor Dos Sete Mares - Tim Maia
--   Coringa - Jão
--   Lost Boy - Ruth B.
--   Dear Parents - Tate McRae
-
-</p>
 
 
 <h2 align="center" id="question6">
@@ -100,12 +65,7 @@ Dessa forma, ao realizar o 'return list', está mostrando a lista de músicas (e
   
   • modo aleatório.
 </p>
-  
-![flyin'](https://user-images.githubusercontent.com/101335613/174390248-30dce86b-c002-462f-8d8d-64cc5355b329.gif)
 
-<h2 align="center" id="developers">
- .{developers 🎶
-</h2>
 
 
 
