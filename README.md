@@ -10,7 +10,7 @@
 
 
   
-- O programa "Flyin' Web Music Player" se trata, como descrito, de uma playlist com músicas pré-selecionadas, onde é possível ouvir suas músicas favoritas através de uma interface dinâmica e prática. 
+- O programa se trata, como descrito, de uma playlist com músicas pré-selecionadas, onde é possível ouvir suas músicas favoritas através de uma interface dinâmica e prática. 
   
 - O código foi modificado com o objetivo de aprendizado para o projeto final na disciplina de "Fundamentos da Programação", onde utilizamos os seguintes códigos como base:
   
