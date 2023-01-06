@@ -1,6 +1,6 @@
 # FundJs-Project
 <h1 align="center"> 
-  <b> Projeto' 🎧 </b>
+  <b> Projeto 🎧 </b>
 </h1>
 <h2 align="center">
   <i> web music player </i>
